@@ -7,7 +7,9 @@
 
 <p> I’m currently learning through personal projects that I'm doing, focusing in learning new technology's.
 </p> 
-<p>📫   You can reach me at Guy10kah@gmail.com Or at Linkedin</p> 
+<p>I wrote a nice basic password manager app using python and TkInter, <b>I pinned it down below!:)</b></p>
+<p>📫   You can reach me at Guy10kah@gmail.com or via Linkedin</p> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
