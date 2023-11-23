@@ -1,12 +1,13 @@
 <img align="center" alt=coding width="700" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
-<h1 align="center">Hi 👋, I'm Guy Kahana</h1>
-<h3 align="center">Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h3>
+<h1 align="left">Hi 👋, I'm Guy Kahana</h1>
+<h4 align="left">Currently, I am a Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h4>
 
-- I'm looking to my first job opportunity to rock!
+<p>I'm looking to my first job opportunity to rock!</p> 
+<p>Have a passion and motivation to evolving myself in the field of Software Development.</p>
 
-- 🌱 I’m currently learning **My current focus is on learning advanced technology and do personal projects by myself**
-
-- 📫 How to reach me **Guy10kah@gmail.com**
+<p> I’m currently learning through personal projects that I'm doing, focusing in learning new technology's.
+</p> 
+<p>📫   You can reach me at Guy10kah@gmail.com Or at Linkedin</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
