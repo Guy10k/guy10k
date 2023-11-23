@@ -1,7 +1,7 @@
-[!MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)](https://rishavchanda.io)
+<img align="center" alt=coding width="700" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 <h1 align="center">Hi 👋, I'm Guy Kahana</h1>
 <h3 align="center">Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h3>
-<img align="center" alt=coding width="700" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
+
 - I'm looking to my first job opportunity to rock!
 
 - 🌱 I’m currently learning **My current focus is on learning advanced technology and do personal projects by myself**
