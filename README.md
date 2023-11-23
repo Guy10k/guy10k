@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy Kahana</h1>
-<h3 align="center">Student of Mathematics and Computer Science in the senior year</h3>
+<h3 align="center">Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h3>
 
 - I'm looking forward to my first job opportunity to rock!
 
