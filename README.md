@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guy Kahana</h1>
 <h3 align="center">Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h3>
-<img align="right" alt=coding src=<iframe src="https://giphy.com/embed/l1J9RFoDzCDrkqtEc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-l1J9RFoDzCDrkqtEc">via GIPHY</a></p>>
+<img align="right" alt=coding src=>
 - I'm looking to my first job opportunity to rock!
 
 - 🌱 I’m currently learning **My current focus is on learning advanced technology and do personal projects by myself**
