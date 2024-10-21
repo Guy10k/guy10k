@@ -1,6 +1,6 @@
 <img align="center" alt=coding width="700" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 <h1 align="left">Hi 👋, I'm Guy Kahana</h1>
-<h4 align="left">Currently, I am a Student of Mathematics and Computer Science in the senior year at the Technion – Israel Institute of Technology </h4>
+<h4 align="left">Hello , my name is Guy, and I'm a graduate of the Technion in mathematics and computer science </h4>
 
 <p>I'm looking to my first job opportunity to rock!</p> 
 <p>Have a passion and motivation to evolving myself in the field of Software Development.</p>
